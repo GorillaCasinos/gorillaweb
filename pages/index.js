@@ -1,6 +1,5 @@
 import { Blur, Navbar, Seo, Socials } from '../components';
 import {
-	Brands,
 	Eclipses,
 	FAQ,
 	Footer,
@@ -24,7 +23,6 @@ export default function Home() {
 				<Roadmap />
 				<HowItWorks />
 				<FAQ />
-				<Brands />
 			</Blur>
 			<Footer />
 			<Socials isSlider={true} />
