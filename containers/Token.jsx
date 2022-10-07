@@ -88,7 +88,7 @@ const Token = () => {
 							<span className='card__title'>Vesting</span>
 							<span className='card__content'>
 						<p>
-							10.000.000 $KROM have been locked on Unicrypt, or 10% of the
+							10.000.000 $GOR have been locked on Unicrypt, or 10% of the
 							total supply, with an average vesting of 2 years and 3 months.
 						</p>
 					</span>
@@ -152,7 +152,7 @@ const Token = () => {
 								/>
 							</figure>
 							<p>
-								How to buy $KROM using the Ethereum mainnet (via &nbsp;
+								How to buy $GOR using the Ethereum mainnet (via &nbsp;
 								<Link href=''>
 									<a target='_blank' rel='noopener noreferrer'>
 										Mainnet Ethereum
