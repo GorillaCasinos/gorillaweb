@@ -22,7 +22,7 @@ const seenOn = [
 ];
 
 const buildOn = [
-	{ href: 'https://ethereum.org/en/', logo: ethereum },
+
 ];
 
 const poweredBy = [
