@@ -21,8 +21,8 @@ const menuItems = [
 
 const cta = [
 	{
-		label: 'Launch Dapp',
-		to: '',
+		label: 'BUY NOW',
+		to: 'https://app.gorilla-coin.com',
 		isExternal: true,
 		className: 'btn btn-solid',
 	},
