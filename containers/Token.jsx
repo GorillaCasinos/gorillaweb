@@ -152,14 +152,17 @@ const Token = () => {
 								/>
 							</figure>
 							<p>
-								How to buy $GOR using the Ethereum mainnet (via &nbsp;
-								<Link href=''>
+								How to buy $GOR token (via &nbsp;
+								<Link href='https://app.gorilla-coin.com'>
 									<a target='_blank' rel='noopener noreferrer'>
-										Mainnet Ethereum
+										Metamask
 									</a>
 								</Link>
 								)?
 							</p>
+						</li>
+						<li>
+						<p>Enter our DAPP, and buy the $GOR token via our Crowdsale platform using your Metamask.</p>
 						</li>
 					</ul>
 				</div>
