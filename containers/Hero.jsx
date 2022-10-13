@@ -9,7 +9,7 @@ const Hero = () => {
       GOR is the internal token of the Gorilla Casinos platform
       </p>
       <div className="btn-group">
-        <Link passHref={true} href="">
+        <Link passHref={true} href="https://app.gorilla-coin.com">
           <motion.a
             className="btn btn-solid"
             target="_blank"
@@ -17,7 +17,7 @@ const Hero = () => {
             whileHover={{ scale: 1.05, transition: { duration: 0.3 } }}
             whileTap={{ scale: 0.9 }}
           >
-            Launch Dapp
+            BUY $GOR NOW
           </motion.a>
         </Link>
         <Link passHref={true} href="#section-token">
