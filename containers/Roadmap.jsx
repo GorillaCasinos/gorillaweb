@@ -7,11 +7,11 @@ const quarters = [
 		title: 'Q4 2022',
 		goals: [
 			{
-				status: false,
+				status: true,
 				goal: 'Launching the Gorilla Token on Ethereum Mainnet (audit completion).',
 			},
 			{
-				status: false,
+				status: true,
 				goal: 'Launching Gorilla Crowdsale.',
 			},
 			{
