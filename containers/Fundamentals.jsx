@@ -31,7 +31,7 @@ const Fundamentals = () => {
 							By buying GOR tokens, you will become one of the first people to access all exclusive benefits, including profit sharing, from Gorilla Casino.
 							</p>
 						</span>
-						<Link href=''>
+						<Link href='https://app.gorilla-coin.com'>
 							<a
 								className='btn btn-solid btn-block'
 								target='_blank'
@@ -53,7 +53,7 @@ const Fundamentals = () => {
 							Depending on the number of tokens you are going to hold, you will get into Tier 1, Tier 2, or Tier 3 of our DAO community. The higher your tier, the bigger your voting right will be in the Gorilla DAO.
 							</p>
 						</span>
-						<Link href=''>
+						<Link href='https://app.gorilla-coin.com'>
 							<a
 								className='btn btn-solid btn-block'
 								target='_blank'
