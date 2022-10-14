@@ -38,9 +38,6 @@ const CoreStrength = () => {
              • Participate in the <strong>exclusive lottery </strong> at Gorilla Casinos and receive extra rewards</p>
           </li>
         </ul>
-        <p>
-          Combined, <strong>you will enjoy </strong> playing on our platform !
-        </p>
       </div>
 
       <h3 className="subtitle">These are our core building blocks</h3>
