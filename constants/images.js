@@ -44,6 +44,7 @@ export const images = {
 	arbitrumHorizontal,
 	optimism,
 	audit,
+	staking,
 	charts,
 	coinKromatika,
 	coinsKromatika,
