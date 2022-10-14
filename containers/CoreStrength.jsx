@@ -44,6 +44,9 @@ const CoreStrength = () => {
       <div className="cards-wrapper">
         <div className="card">
           <div className="card__header">
+                                    <figure>
+              <Image src={audit} alt="" />
+            </figure>
           </div>
           <div className="card__body">
             <span className="card__title">Secured Smart Contract</span>
