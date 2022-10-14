@@ -61,6 +61,9 @@ const CoreStrength = () => {
 
         <div className="card">
           <div className="card__header">
+                                                <figure>
+              <Image src={staking} alt="" />
+            </figure>
           </div>
           <div className="card__body">
             <span className="card__title">Staking</span>
