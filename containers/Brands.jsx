@@ -26,10 +26,6 @@ const buildOn = [
 
 ];
 
-const poweredBy = [
-
-];
-
 const Partnership = [];
 
 const Brands = () => {
@@ -63,21 +59,6 @@ const Brands = () => {
 					))}
 				</div>
 			</div>
-			<div className='brands-wrapper'>
-				{/* POWERED BY */}
-				<div className='brands'>
-					<motion.div
-						initial={{ opacity: 0 }}
-						whileInView={{ opacity: 1 }}
-						transition={{ duration: 1 }}>
-						<h2 className='brands__title'>Powered By</h2>
-					</motion.div>
-					<div className='brands__links'>
-						{poweredBy.map(({ href, logo }, index) => (
-							<Tile href={href} logo={logo} key={index} />
-						))}
-					</div>
-				</div>
 				{/* PARTNERSHIP */}
 				<div className='brands'>
 					<motion.div
