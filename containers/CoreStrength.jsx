@@ -30,12 +30,12 @@ const CoreStrength = () => {
           </li>
           <li>
             <p>
-              Earn Airdrops by <strong>staking</strong> Gorilla tokens.
+             • Earn Airdrops by <strong>staking</strong> Gorilla tokens.
             </p>
           </li>
           <li>
             <p>
-              Participate in the <strong>exclusive lottery </strong> at Gorilla Casinos and receive extra rewards</p>
+             • Participate in the <strong>exclusive lottery </strong> at Gorilla Casinos and receive extra rewards</p>
           </li>
         </ul>
         <p>
