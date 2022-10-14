@@ -21,7 +21,7 @@ const quarters = [
 		],
 	},
 	{
-		title: 'Q1 2022',
+		title: 'Q1 2023',
 		goals: [
 			{
 				status: false,
