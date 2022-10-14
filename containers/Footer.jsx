@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Link as Scroll } from "react-scroll";
 import { Socials } from "../components";
-import { Divider, Logo} from "../components/";
+import { Divider, Logo } from "../components/";
 import { motion } from "framer-motion";
 
 const menuItems = [
@@ -45,7 +45,7 @@ const Footer = () => {
                   <li className="navbar__item" key={i}>
                     <Link href={to}>
                       <a
-                        href=""
+                        href="https://blog.kromatika.finance/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -90,11 +90,7 @@ const Footer = () => {
         <Divider type="horizontal" w="188px" />
         <div className="copyright">
           <h3>Copyright &copy; {currentYear} All rights reserved.</h3>
-          <p>
-            Gorilla Token is brought to you by{" "}
-                <span>Gorilla Casinos</span>
-          </p>
-          <a href="">
+          <a href="mailto: contact@gorilla-coin.com">
             contact@gorilla-coin.com
           </a>
         </div>
@@ -142,16 +138,20 @@ const Footer = () => {
             ))}
           </ul>
         </nav>
-      <Logo path="/" />
+        <Logo path="/" />
         <Socials />
         <Divider type="horizontal" w="188px" />
         <div className="copyright">
           <h3>Copyright &copy; {currentYear} All rights reserved.</h3>
           <p>
             Gorilla Token is brought to you by{" "}
+            <Link href="">
+              <a target="_blank" rel="noopener noreferrer">
                 <span>Gorilla Casinos</span>
+              </a>
+            </Link>
           </p>
-          <a href="">
+          <a href="mailto: contact@gorilla-coin.com">
             contact@gorilla-coin.com
           </a>
         </div>
