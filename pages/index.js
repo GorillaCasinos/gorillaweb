@@ -23,7 +23,6 @@ export default function Home() {
 				<Roadmap />
 				<HowItWorks />
 				<FAQ />
-				<Brands />
 			</Blur>
 			<Footer />
 			<Socials isSlider={true} />
