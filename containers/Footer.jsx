@@ -36,6 +36,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-wide-screen">
+        <Logo path="/" />
         <div className="links">
           <nav className="navbar__nav">
             <ul className="navbar__list">
@@ -141,6 +142,7 @@ const Footer = () => {
             ))}
           </ul>
         </nav>
+      <Logo path="/" />
         <Socials />
         <Divider type="horizontal" w="188px" />
         <div className="copyright">
