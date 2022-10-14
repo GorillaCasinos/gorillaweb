@@ -1,6 +1,5 @@
 import { Blur, Navbar, Seo, Socials } from '../components';
 import {
-	Brands,
 	Eclipses,
 	FAQ,
 	Footer,
