@@ -21,23 +21,21 @@ const CoreStrength = () => {
       </motion.div>
 
       <div className="hero__content">
-        <p>Gorilla Token brings to you:</p>
+        <p>By investing in Gorilla Token you will enjoy the following benefits:</p>
         <ul>
           <li>
             <p>
-              The <strong>best staking APY for Gorilla Token.</strong>
+              • The <strong>best staking APY for Gorilla Token.</strong>
             </p>
           </li>
           <li>
             <p>
-              <strong>Gorilla stakers</strong> will earn Airdrops.
+              Earn Airdrops by <strong>staking</strong> Gorilla tokens.
             </p>
           </li>
           <li>
             <p>
-              <strong>And additional</strong> chances to earn more prises on
-              Gorilla Casinos.
-            </p>
+              Participate in the <strong>exclusive lottery </strong> at Gorilla Casinos and receive extra rewards</p>
           </li>
         </ul>
         <p>
