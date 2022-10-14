@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Link as Scroll } from "react-scroll";
 import { Socials } from "../components";
-import { Divider} from "../components/";
+import { Divider, Logo} from "../components/";
 import { motion } from "framer-motion";
 
 const menuItems = [
