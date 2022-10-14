@@ -1,4 +1,4 @@
-
+export { default as Brands } from './Brands';
 export { default as Eclipses } from './Eclipses';
 export { default as FAQ } from './FAQ';
 export { default as Footer } from './Footer';
