@@ -2,7 +2,7 @@ import cmc from '../assets/images/cmc@2x.png';
 import etherScan from '../assets/images/etherscan@2x.png';
 import arbitrumHorizontal from '../assets/svgs/arbitrum-horizontal.svg';
 import arbitrumLogo from '../assets/svgs/arbitrum-logo.svg';
-import audit from '../assets/svgs/audit.svg';
+import audit from '../assets/images/audit.png';
 import charts from '../assets/svgs/charts.svg';
 import circulatingSupply from '../assets/svgs/circulating-supply.svg';
 import coinKromatika from '../assets/svgs/coin-kromatika.svg';
