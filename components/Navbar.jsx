@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import { CgClose, CgMenuRight } from 'react-icons/cg';
 import { Link as Scroll } from 'react-scroll';
-import { Divider } from '.';
+import { Divider, Logo } from '.';
 import Socials from '../components/Socials';
 
 const menuItems = [
@@ -34,6 +34,7 @@ const Navbar = () => {
 	return (
 		<header className='padding-x' style={{ height: '107px', width: '100%' }}>
 			<div className='navbar'>
+				<Logo path='/' />
 				<Divider type='vertical' h='64.5px' />
 				<nav className='navbar__nav'>
 					<ul className='navbar__list'>
