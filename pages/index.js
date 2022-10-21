@@ -1,4 +1,4 @@
-import { Blur, Navbar, Seo, Socials } from '../components';
+import { Blur, Navbar, Seo } from '../components';
 import {
 	Eclipses,
 	FAQ,
@@ -25,7 +25,6 @@ export default function Home() {
 				<FAQ />
 			</Blur>
 			<Footer />
-			<Socials isSlider={true} />
 		</div>
 	);
 }
