@@ -7,9 +7,6 @@ const {
 	eclipseMediumPink,
 	eclipseLargePurple,
 	eclipseLargeOrange,
-	eclipseSmallDark,
-	eclipseMediumDark,
-	eclipseLargeDark,
 } = images;
 
 const Eclipses = ({ children }) => {
@@ -51,21 +48,6 @@ const Eclipses = ({ children }) => {
 				animate={{ x: [0, 10, 0], y: [0, 10, 0, -10] }}
 				transition={{ duration: 5, yoyo: Infinity }}
 			/>
-			{/* END OF HERO SECTION */}
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseLargeDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
-			<Eclipse eclipse={eclipseMediumDark} />
-			<Eclipse eclipse={eclipseSmallDark} />
 			{children}
 		</div>
 	);

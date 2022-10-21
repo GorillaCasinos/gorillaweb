@@ -8,12 +8,9 @@ import circulatingSupply from '../assets/svgs/circulating-supply.svg';
 import coinKromatika from '../assets/images/layers.png';
 import coinsKromatika from '../assets/svgs/coins-kromatika.svg';
 import coinsStash from '../assets/svgs/coins-stash.svg';
-import eclipseLargeDark from '../assets/svgs/eclipse_large_dark.svg';
 import eclipseLargeOrange from '../assets/svgs/eclipse_large_orange.svg';
 import eclipseLargePurple from '../assets/svgs/eclipse_large_purple.svg';
-import eclipseMediumDark from '../assets/svgs/eclipse_medium_dark.svg';
 import eclipseMediumPink from '../assets/svgs/eclipse_medium_pink.svg';
-import eclipseSmallDark from '../assets/svgs/eclipse_small_dark.svg';
 import eclipseSmallGreen from '../assets/svgs/eclipse_small_green.svg';
 import eclipseSmallSky from '../assets/svgs/eclipse_small_sky.svg';
 import goldLock from '../assets/svgs/gold-lock.svg';
@@ -36,9 +33,6 @@ export const images = {
 	eclipseMediumPink,
 	eclipseLargePurple,
 	eclipseLargeOrange,
-	eclipseSmallDark,
-	eclipseMediumDark,
-	eclipseLargeDark,
 	metamaskFoxHorizontal,
 	arbitrumHorizontal,
 	optimism,
