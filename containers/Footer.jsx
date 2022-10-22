@@ -45,7 +45,7 @@ const Footer = () => {
                   <li className="navbar__item" key={i}>
                     <Link href={to}>
                       <a
-                        href="https://blog.kromatika.finance/"
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                       >
