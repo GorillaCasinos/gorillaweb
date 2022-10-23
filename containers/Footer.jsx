@@ -12,14 +12,13 @@ const menuItems = [
   {
     icon: "",
     label: "News",
-    to: "",
+    to: "https://gorillacasinos.medium.com/",
     isExternal: true,
   },
 ];
 
 const secondaryLinks = [
-  { label: "Github", to: "" },
-  { label: "Docs", to: "" },
+  { label: "Docs", to: "https://docs.gorilla-coin.com/" },
   {
     label: "Bug Bounty",
     to: "",
