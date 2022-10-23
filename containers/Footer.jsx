@@ -12,7 +12,7 @@ const menuItems = [
   {
     icon: "",
     label: "News",
-    to: "https://gorillacasinos.medium.com/",
+    to: "https://gorillacasinos.medium.com",
     isExternal: true,
   },
 ];
