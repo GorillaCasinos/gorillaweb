@@ -8,6 +8,7 @@ import {
 	Qualities,
 	Roadmap,
 	Token,
+	Team,
 } from '../containers';
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
 				<Roadmap />
 				<HowItWorks />
 				<FAQ />
+				<Team />
 			</Blur>
 			<Footer />
 		</div>
