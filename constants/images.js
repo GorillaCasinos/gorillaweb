@@ -23,6 +23,8 @@ import polygonLogo from '../assets/svgs/polygon-logo.svg';
 import Scene_BluePurpleGold_Farming from '../assets/svgs/Scene_BluePurpleGold_Farming.svg';
 import Scene_BluePurpleGold_NoLimits from '../assets/svgs/Scene_BluePurpleGold_NoLimits.svg';
 import Scene_BluePurpleGold_Trading from '../assets/svgs/Scene_BluePurpleGold_Trading.svg';
+import Ogi from '../assets/images/ogi.png';
+import Dionis from '../assets/images/dionis.png';
 
 export const images = {
 	logo,
@@ -50,4 +52,6 @@ export const images = {
 	arbitrumLogo,
 	optimismLogo,
 	polygonLogo,
+	   Ogi,
+   	 Dionis,
 };
