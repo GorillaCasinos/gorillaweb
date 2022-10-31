@@ -12,7 +12,7 @@ const menuItems = [
   {
     icon: "",
     label: "News",
-    to: "",
+    to: "https://gorillacasinos.medium.com/",
     isExternal: true,
   },
 ];
@@ -45,7 +45,7 @@ const Footer = () => {
                   <li className="navbar__item" key={i}>
                     <Link href={to}>
                       <a
-                        href="https://blog.kromatika.finance/"
+                        href="https://gorillacasinos.medium.com/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -102,11 +102,7 @@ const Footer = () => {
               isExternal ? (
                 <li className="navbar__item" key={i}>
                   <Link href={to}>
-                    <a
-                      href=""
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
+                    <a href="" target="_blank" rel="noopener noreferrer">
                       {icon}
                       {label}
                     </a>

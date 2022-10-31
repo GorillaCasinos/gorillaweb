@@ -8,14 +8,16 @@ const faqs = [
     label: "What is ICO?",
     content: (
       <>
-ICO (Initial Coin Offering) is a way of raising money that is popular in the cryptocurrency industry. Instead of buying shares, the investors can buy a portion of the total amount of tokens. 
+        ICO (Initial Coin Offering) is a way of raising money that is popular in
+        the cryptocurrency industry. Instead of buying shares, the investors can
+        buy a portion of the total amount of tokens.
       </>
     ),
   },
   {
     label: "Where can I get the Litepaper?",
     content: [
-      "We are currently working on the Litepaper, and you will be able to read it until the end of September."
+      "We are currently working on the Litepaper, and you will be able to read it until the end of September.",
     ],
   },
   {
@@ -29,7 +31,9 @@ ICO (Initial Coin Offering) is a way of raising money that is popular in the cry
     label: "Why is Gorilla Token a good investment?",
     content: (
       <>
-Gorilla Token is a utility token of the whole GorillaCasinos ecosystem. You can use your tokens for staking, voting in the GorillaCasinos DAO, and for participating in various giveaways!
+        Gorilla Token is a utility token of the whole GorillaCasinos ecosystem.
+        You can use your tokens for staking, voting in the GorillaCasinos DAO,
+        and for participating in various giveaways!
       </>
     ),
   },
@@ -55,7 +59,9 @@ Gorilla Token is a utility token of the whole GorillaCasinos ecosystem. You can 
     label: "Is there going to be Bounty & Airdrop campaign?",
     content: (
       <>
-Yes. We have scheduled both Bounty and Airdrop campaigns. While the bounty campaign is intended for marketing purposes, Airdrop is going to deliver 20% of all tokens to the Gorilla Casino NFT holders. 
+        Yes. We have scheduled both Bounty and Airdrop campaigns. While the
+        bounty campaign is intended for marketing purposes, Airdrop is going to
+        deliver 20% of all tokens to the Gorilla Casino NFT holders.
       </>
     ),
   },

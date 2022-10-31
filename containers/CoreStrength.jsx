@@ -21,7 +21,9 @@ const CoreStrength = () => {
       </motion.div>
 
       <div className="hero__content">
-        <p>By investing in Gorilla Token you will enjoy the following benefits:</p>
+        <p>
+          By investing in Gorilla Token you will enjoy the following benefits:
+        </p>
         <ul>
           <li>
             <p>
@@ -30,12 +32,14 @@ const CoreStrength = () => {
           </li>
           <li>
             <p>
-             • Earn Airdrops by <strong>staking</strong> Gorilla tokens.
+              • Earn Airdrops by <strong>staking</strong> Gorilla tokens.
             </p>
           </li>
           <li>
             <p>
-             • Participate in the <strong>exclusive lottery </strong> at Gorilla Casinos and receive extra rewards</p>
+              • Participate in the <strong>exclusive lottery </strong> at
+              Gorilla Casinos and receive extra rewards
+            </p>
           </li>
         </ul>
       </div>
@@ -44,31 +48,35 @@ const CoreStrength = () => {
       <div className="cards-wrapper">
         <div className="card">
           <div className="card__header">
-                                    <figure>
+            <figure>
               <Image src={audit} alt="" />
             </figure>
           </div>
           <div className="card__body">
             <span className="card__title">Secured Smart Contract</span>
             <span className="card__content">
-            GOR token is certified by CertiK - the world's leading blockchain security audit.  
+              GOR token is certified by CertiK - the world's leading blockchain
+              security audit.
               <br />
               <br />
-              We have additionally increased security by using MythX - one of the best smart contract audits. 
+              We have additionally increased security by using MythX - one of
+              the best smart contract audits.
             </span>
           </div>
         </div>
 
         <div className="card">
           <div className="card__header">
-                                                <figure>
+            <figure>
               <Image src={coinKromatika} alt="" />
             </figure>
           </div>
           <div className="card__body">
             <span className="card__title">Staking</span>
             <span className="card__content">
-            By staking GOR tokens, you will have the opportunity to generate passive income and exclusive access to our lotteries and giveaways!
+              By staking GOR tokens, you will have the opportunity to generate
+              passive income and exclusive access to our lotteries and
+              giveaways!
               <br />
               <br />
             </span>
@@ -77,14 +85,15 @@ const CoreStrength = () => {
 
         <div className="card">
           <div className="card__header">
-                        <figure>
+            <figure>
               <Image src={charts} alt="" />
             </figure>
           </div>
           <div className="card__body">
             <span className="card__title">Built on the Ethereum Network</span>
             <span className="card__content">
-            We launched the Gorilla Token (GOR) on the Ethereum Network, which is by far the most popular and widely-used blockchain. 
+              We launched the Gorilla Token (GOR) on the Ethereum Network, which
+              is by far the most popular and widely-used blockchain.
             </span>
           </div>
         </div>

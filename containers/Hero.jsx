@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="section-hero" className="hero">
       <h1 className="hero__title">Gorilla</h1>
       <p className="hero__subtitle">
-      GOR is the internal token of the Gorilla Casinos platform
+        GOR is the internal token of the Gorilla Casinos platform
       </p>
       <div className="btn-group">
         <Link passHref={true} href="https://app.gorilla-coin.com">

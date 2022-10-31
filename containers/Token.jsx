@@ -64,14 +64,18 @@ const Token = () => {
 							<Image src={circulatingSupply} alt='' />
 						</figure>
 						<div className='card__overlay'>
-							<span className='card__title'>Circulating Supply</span>
+							<span className='card__title'>Token Info</span>
 							<span className='card__content'>
-						<p>
-							Initially 30.2 million tokens will be put on sale on our Crowdsale. 
-							10 million tokens will be held on Gnosis Safe Wallet (Team Wallet).
-							50.8 million tokens will be locked in liquidity on Uniswap V3.
-							10 million tokens will be put on vesting for future Airdrops.
-						</p>
+							<span>Gorilla Token Bassed Blockchain</span>
+							<p>Ethereum Mainnet</p>
+							<span>Ticker</span>
+							<p>GRL</p>
+							<span>Gorilla Token Smart Contract</span>
+							<p>0xD178724F70082a89e9b5537Aa7a3466baCB2c737</p>
+							<span>Total Supply</span>
+							<p>100.000.000</p>
+							<span>Decimals</span>
+							<p>18</p>
 					</span>
 						</div>
 				</motion.div>
@@ -85,8 +89,14 @@ const Token = () => {
 							<Image src={coinsStash} alt='' />
 						</figure>
 						<div className='card__overlay'>
-							<span className='card__title'>Vesting</span>
+							<span className='card__title'>CS & Vesting </span>
 							<span className='card__content'>
+							<p>
+							Initially 30.2 million tokens will be put on sale on our Crowdsale. 
+							10 million tokens will be held on Gnosis Safe Wallet (Team Wallet).
+							50.8 million tokens will be locked in liquidity on Uniswap V3.
+							10 million tokens will be put on vesting for future Airdrops.
+						</p>
 						<p>
 							10.000.000 $GOR have been locked on Unicrypt, or 10% of the
 							total supply, with an average vesting of 2 years and 3 months.
