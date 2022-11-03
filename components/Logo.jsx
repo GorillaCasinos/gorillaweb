@@ -12,7 +12,7 @@ const Logo = ({ path }) => {
 					<Image src={logo} alt='' />
 				</figure>
 				<div className='logo__text'>
-					<span>Gotilla</span>
+					<span>Gorilla</span>
 					<span>Token</span>
 				</div>
 			</div>
