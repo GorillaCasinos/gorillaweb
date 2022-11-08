@@ -5,7 +5,7 @@ import React, { useRef } from "react";
 import { images } from "../constants/images";
 import { Socials } from "../components";
 
-const { Dionis, Ogi } = images;
+const { Dionis, Ogi, leko } = images;
 
 const Team = () => {
   return (
@@ -28,7 +28,7 @@ const Team = () => {
           </figure>
           <div className="card__body">
             <span className="card__title">Ognjen Karisik</span>
-            <span className="card__content">CEO & Founder</span>
+            <span className="card__content">Founder</span>
           </div>
         </div>
 
@@ -39,7 +39,7 @@ const Team = () => {
           <div className="card__body">
             <span className="card__title">Dionis Markov</span>
             <span className="card__content">
-              CTO & Founder
+              Founder
               <br />
               <br />
             </span>
@@ -47,16 +47,19 @@ const Team = () => {
         </div>
 
         <div className="card">
+                    <figure>
+            <Image src={leko} alt="" />
+          </figure>
           <div className="card__body">
-            <span className="card__title">Lazar Zivkovic</span>
-            <span className="card__content">Co-Founder</span>
+            <span className="card__title">Kristijan Lekoski</span>
+            <span className="card__content">Founder</span>
           </div>
         </div>
 
         <div className="card">
           <div className="card__body">
-            <span className="card__title">Kristijan</span>
-            <span className="card__content">Co-Founder</span>
+            <span className="card__title">Lazar Zivkovic</span>
+            <span className="card__content">Founder</span>
           </div>
         </div>
       </div>
