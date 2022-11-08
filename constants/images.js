@@ -25,6 +25,7 @@ import Scene_BluePurpleGold_NoLimits from '../assets/svgs/Scene_BluePurpleGold_N
 import Scene_BluePurpleGold_Trading from '../assets/svgs/Scene_BluePurpleGold_Trading.svg';
 import Ogi from '../assets/images/ogi.png';
 import Dionis from '../assets/images/dionis.png';
+import leko from '../assets/images/leko.ong';
 
 export const images = {
 	logo,
@@ -54,4 +55,5 @@ export const images = {
 	polygonLogo,
 	   Ogi,
    	 Dionis,
+	leko,
 };
