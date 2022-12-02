@@ -33,20 +33,6 @@ const Team = () => {
         </div>
 
         <div className="card">
-          <figure>
-            <Image src={Dionis} alt="" />
-          </figure>
-          <div className="card__body">
-            <span className="card__title">Dionis Markov</span>
-            <span className="card__content">
-              Founder
-              <br />
-              <br />
-            </span>
-          </div>
-        </div>
-
-        <div className="card">
                     <figure>
             <Image src={leko} alt="" />
           </figure>
